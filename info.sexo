@@ -1,0 +1,46 @@
+
+<!DICKTYPE long>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ernests</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="E2.ico">
+</head>
+<body>
+  <div class="topnav">
+   <a href="index.html">Home</a>
+   <a class="active "href="info.html">Info</a>
+   <a href="journal.html">Journal</a>
+   <a href="news.html">News</a>
+  </div>
+ <h1>Information</h1>
+ <p style="margin-top:75px"><a>This is the <i><b><strong>official</i></b></strong>
+ website of Ernests. You might think, "who is ernests?" 
+ Well, Ernests is the holder of the domain 
+ <a href="https://www.ernests.org">ernests.org</a></a></p>
+ <p><a>If it's still not clear as to who is Ernests, it is 
+ the person writing this nonsense.</a></p>
+ <br>
+ <p><a>This</p>
+ <a><p>page will</p></a>
+ <a><p>display updates </p></a>
+ <a><p>and (possibly) ways to</p></a>
+ <a><p>contact me in the future.</a></p>
+ <a><p>You may notice that there isn't</p></a>
+ <a><p>anything yet, because there isn't anything.</a></p> 
+ <a><p>Just because you noticed this, I will give you</p></a> 
+ <a><p>a gift!!!</a></p>
+ <a><p>In order </p></a>
+ <a><p>to receive</p></a>
+ <a><p>the gift,</p></a>
+ <a><p>press the</p></a>
+ <a><p>button below</p></a>
+ <a><p>that says </p></a>
+ <a><p>"Receive Gift"</a></p>
+ <br>
+ <h1><a  href="toilet.html">Receive Gift</a></h1>
+</body>
+</html>
+
