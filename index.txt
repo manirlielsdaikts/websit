@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Ernests</title>
+ <link rel="stylesheet" href="styles.css">
+ <link rel="icon" href="E2.ico">
+</head>
+<body>
+ <div id="snow"></div>
+ <div class="topnav">
+  <a class="active" href="index.html">Home</a>
+  <a href="info.html">Info</a>
+  <a href="journal.html">Journal</a>
+  <a href="news.html">News</a> 
+</div>
+ <h1>WELCOME</h1>
+ <a href="cs_office.rar" style="color:black">office</a>
+ <div class="ad">
+  Also check out:
+  <a href="https://www.w3i.org" id="nice"> World Wide Web Index</a>
+ </div>
+</body>
+<script src="christmas.js"></script>
+</html>
